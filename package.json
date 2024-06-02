@@ -1,0 +1,25 @@
+{
+  "name": "api-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "allTest": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.44.1",
+    "@types/node": "^20.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simmi2903/zensar-playwright-assignment-api"
+  },
+  "bugs": {
+    "url": "https://github.com/simmi2903/zensar-playwright-assignment-api/issues"
+  },
+  "homepage": "https://github.com/simmi2903/zensar-playwright-assignment-api#readme"
+ 
+}
